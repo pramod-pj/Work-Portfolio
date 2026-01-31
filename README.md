@@ -7,7 +7,7 @@ The website is designed with a modern UI/UX, dark theme, and responsive layout.
 🌐 Live Demo
 
 👉 [Add your Netlify/Vercel link here]
-(Example: https://pramod-portfolio.netlify.app
+(Example:https://pramod-j-portfolio.netlify.app/
 )
 
 👤 About Me
